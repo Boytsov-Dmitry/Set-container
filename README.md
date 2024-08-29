@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/l4qtmmuis57oticw?svg=true)](https://ci.appveyor.com/project/Boytsov-Dmitry/set-container)
